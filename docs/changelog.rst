@@ -15,6 +15,8 @@ Changelog
   arguments of :func:`~client.connect()` and :func:`~server.serve()`. They
   default to 20 seconds. Setting them to ``None`` disables this new behavior.
 
+  If you implemeted this behavior in your application, you can remove it.
+
 6.0
 ...
 
